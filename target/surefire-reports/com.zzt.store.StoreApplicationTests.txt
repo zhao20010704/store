@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.zzt.store.StoreApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.71 s - in com.zzt.store.StoreApplicationTests
